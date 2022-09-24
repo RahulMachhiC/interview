@@ -5,3 +5,6 @@
 ![alt text](https://github.com/RahulMachhiC/interview/blob/main/images/simulator_screenshot_50227808-E6A2-4D4C-B005-8D3D0D300CB0.png?raw=true)
 ![alt text](https://github.com/RahulMachhiC/interview/blob/main/images/simulator_screenshot_F1B128D9-105D-4856-8969-56C848CCAC23.png?raw=true)
 ![alt text](https://github.com/RahulMachhiC/interview/blob/main/images/simulator_screenshot_FDAA4292-F4A3-44A5-B0A3-65640F4867C2.png?raw=true)
+
+
+<video src='https://github.com/RahulMachhiC/interview/blob/main/images/Simulator%20Screen%20Recording%20-%20iPhone%2011%20-%202022-09-24%20at%2016.18.13.mp4' width=180/>
